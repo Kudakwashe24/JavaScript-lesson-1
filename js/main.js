@@ -1,0 +1,22 @@
+'use strict'; // the "use strict" directive swithces the engine to the "modern" mode changing the 
+// behaviour of some built-it features. 
+
+// variables are used to store this Information.
+
+// A variable is a "named storage =" for data. We can use variables to store data.
+
+// To create a variable in JavaScript, we need to use the let or var keyword.
+
+// var name = prompt 
+
+var name = prompt("Enter your first name");
+alert("Hello, " + name); 
+
+
+var name = 'Kudakwashe',
+    gender = 'male',
+    age = '20',
+    address = 'Kraaifontein';
+
+
+console.log("Hello my name is " + name, "I am " + age, "I am a " + gender, "and I live in " + address );
