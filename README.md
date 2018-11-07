@@ -12,7 +12,7 @@ started with.
 
 
 ## Live Link
-- 
+- https://kudakwashe24.github.io/JavaScript-lesson-1/
 
 ## Technologies Used
 

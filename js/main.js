@@ -12,11 +12,21 @@
 var name = prompt("Enter your first name");
 alert("Hello, " + name); 
 
+var name = prompt("Where do you live");
+alert("Okay my name is Lenovo, Welcome to my home")
+
 
 var name = 'Kudakwashe',
     gender = 'male',
     age = '20',
-    address = 'Kraaifontein';
+    address = 'Kraaifontein',
+    occupation = 'Junior Web Developer',
+    education = 'Life Choices Academy',
+    educator = 'Nate';
 
 
-console.log("Hello my name is " + name, "I am " + age, "I am a " + gender, "and I live in " + address );
+
+console.log("Hello my name is " + name, "I am " + age, "I am a " + gender, "and I live in " 
++ address, "I currently attend " + education, "and my educator's name is " 
++ educator, "After 6 months I will officially be a "
++occupation );
